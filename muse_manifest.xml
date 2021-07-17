@@ -1,0 +1,83 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Promociondelprograma.com" resolutions="1x" timestamp="1626488380173">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="cursos.css" crc="488901347" ref="cursos"/>
+    <file name="informacion.css" crc="329177551" ref="informacion"/>
+    <file name="index.css" crc="4258570422" ref="index"/>
+    <file name="recursos.css" crc="3785203098" ref="recursos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:cursos:recursos:informacion"/>
+    <file name="museutils.js" crc="3939489907" ref="index:cursos:recursos:informacion"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cursos:recursos:informacion"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:cursos:recursos:informacion"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:cursos:recursos:informacion"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:cursos:recursos:informacion"/>
+    <file name="require.js" crc="4177726516" ref="index:cursos:recursos:informacion"/>
+    <file name="webpro.js" crc="3856315280" ref="cursos:recursos:informacion"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="cursos:informacion"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="cursos:informacion"/>
+    <file name="touchswipe.js" crc="3888935200" ref="cursos:informacion"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="recursos"/>
+    <file name="form_check.php" crc="4108222811" ref="informacion"/>
+    <file name="form_throttle.php" crc="503802655" ref="informacion"/>
+    <file name="form_process.php" crc="260214869" ref="informacion"/>
+    <file name="form-u660.php" crc="3822575996" ref="informacion"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="4147143523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 1000x618.jpg" crc="4018320128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="malla 1-crop-u1237.jpg" crc="3944949189" seo="true" ref="cursos">
+      <caption webpage="cursos" alt=""/>
+    </file>
+    <file name="malla 2.jpg" crc="278130646" seo="true" ref="cursos">
+      <caption webpage="cursos" alt=""/>
+    </file>
+    <file name="malla 3.jpg" crc="3787047436" seo="true" ref="cursos">
+      <caption webpage="cursos" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="cursos:recursos:informacion"/>
+    <file name="aula 1.jpg" crc="3837124646" seo="true" ref="recursos:informacion">
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="informacion" alt=""/>
+    </file>
+    <file name="aula 2.jpg" crc="3886400963" seo="true" ref="recursos:informacion">
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="informacion" alt=""/>
+    </file>
+    <file name="imagen pegada 1165x717.jpg" crc="4240904699" seo="true" ref="recursos">
+      <caption webpage="recursos" alt=""/>
+    </file>
+    <file name="aula 3236x156.jpg" crc="4074494388" seo="true" ref="recursos">
+      <caption webpage="recursos" alt=""/>
+    </file>
+    <file name="minuto civico237x134.jpg" crc="134159430" seo="true" ref="recursos">
+      <caption webpage="recursos" alt=""/>
+    </file>
+    <file name="aula 3-crop-u1077.jpg" crc="449051558" seo="true" ref="informacion">
+      <caption webpage="informacion" alt=""/>
+    </file>
+    <file name="fondo 1-crop-u1097.jpg" crc="3858147943" seo="true" ref="informacion">
+      <caption webpage="informacion" alt=""/>
+    </file>
+    <file name="foto 2-crop-u1117.jpg" crc="4244387524" seo="true" ref="informacion">
+      <caption webpage="informacion" alt=""/>
+    </file>
+    <file name="laboratorio 1-crop-u1137.jpg" crc="175524246" seo="true" ref="informacion">
+      <caption webpage="informacion" alt=""/>
+    </file>
+    <file name="minuto civico-crop-u1157.jpg" crc="3944872661" seo="true" ref="informacion">
+      <caption webpage="informacion" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="informacion"/>
+  </folder>
+  <file name="index.html" crc="492021648" seo="true" mt="1626211290146" redirect="true"/>
+  <file name="cursos.html" crc="390548399" seo="true" mt="1626462740662" redirect="true"/>
+  <file name="recursos.html" crc="3882400016" seo="true" mt="1626462339061" redirect="true"/>
+  <file name="informacion.html" crc="3938562719" seo="true" mt="1626213507412" redirect="true"/>
+</manifest>
